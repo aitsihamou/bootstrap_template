@@ -33,6 +33,10 @@ myFunction(x) // Call listener function at run time
 
 
 //-------------------------
+$('.Count').counterUp({
+  delay: 10,
+  time: 1000
+});
 
 
 
